@@ -1,0 +1,5 @@
+* git status 
+* git add . (adiciona todos os arquivos no controle de versão local)
+* git add -A 
+* depois de adicionar tenho que "commitar" 
+* git commit - m "Algum comentario relevante aqui"
